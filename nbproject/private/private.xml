@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/br/com/vendas/dao/ClientesDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>265</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/view/FrmPagamentos.java</file>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/dao/ProdutosDAO.java</file>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/dao/ItensVendasDAO.java</file>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/view/FrmVendas.java</file>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/model/ItemVenda.java</file>
+            <file>file:/C:/Users/Lucas%20Teixeira/Documents/NetBeansProjects/Vendas/src/br/com/vendas/dao/VendasDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
